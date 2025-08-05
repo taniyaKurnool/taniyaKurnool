@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating awesome apps since 2019<br>📚 I'm currently learning XXX<br>🎯 Goals: XXX<br>🎲 Fun fact: I teach frontend development workshops at Goethe-Universität Frankfurt</p>
+<p align="left">✨ Creating awesome apps since 2019<br>📚 I'm currently learning Swift and iOS App Development<br>🎯 Goals: Build accessible and user-focused web applications<br>🎲 Fun fact: I teach frontend development workshops at Goethe-Universität Frankfurt</p>
 
 ###
 
